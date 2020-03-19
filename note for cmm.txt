@@ -1,0 +1,72 @@
+06/02/2020
+Vincent Hilaire
+D214
+
+tp projet (audit fde logiciel)
+
+CMMI = capibilty Maturation Model Integrated
+
+1. Introduction
+concevoir un logiciel 
+->qualité AAP -> referentiel de  critère dpar logiciel
+1991 CMM 
+
+granularité  级配； 颗粒度； 粒度
+
+13. organisarion ddéploiment de logiciek , entreprise compile , département, service
+
+14. acivité > client 
+	calendrier  
+	resouse(Rh , matériel)
+16. niveau maturité / capacité
+
+18. un niveay de maturité -> simple initialiser / compare facilement
+
+20. atribue à des domaine de processus
+	plusieurs niveaux capacité
+	
+29. pas de ;éthode, pas de réagir aux problem
+
+32.experience : quantité , experience présente, schema qui a fait leur précis
+
+35. mesure -> méthologie
+
+41. métrique -> analyse
+
+45. niveau capacité : de niveax 1 corrspond à niveau maturité
+
+52. domaine de processus = ensemble de pratique (activité)
+	chaque domaine de processus associe à un niveau de maturité
+	
+54. chaque niveau de maturité compoete plusieurs domaine de processus ( 25 en total )
+
+57. portée = résumé
+
+60. domaine en lien : les domaines sont traité en même temps	
+
+61. objectif -> satisfaction -> buts à atteindre
+	phrase courte (catièr satisfaction)
+	
+63.objetif spécifique / générique
+
+70. amplification (varier) = une termiologie différentes : décrir lz détail d'un objectif
+	
+73. 1)approche qualité -> certification 
+	2)améliorer interme
+	
+80. SCAMPI : standard CMMI Appraisal(audit) Method for PROCESS Improvment 
+	méthode d'audit -> évaluation
+	
+82. répétabilité -> objectif  (équipe + entede)
+
+84. source  = extérieuse permettent évaluation
+
+
+TP : projet = audit
+	liste de logiciel
+	libre (code science)
+	
+	validé par enseignant
+	pas plus de 2-3 groupe pour le meme logiciel
+	RDV 15 mins au bureau
+	
