@@ -6,6 +6,9 @@ import gl51.service.FetchService
 
 import javax.inject.Inject
 
+import javax.inject.Singleton
+
+@Singleton
 class DBupdatelmpl implements DBupdateService{
 
     @Inject FetchService fetchService

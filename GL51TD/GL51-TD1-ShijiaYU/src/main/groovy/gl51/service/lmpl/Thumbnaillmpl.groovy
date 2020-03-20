@@ -7,6 +7,8 @@ import gl51.service.ThumbnailService
 
 import javax.inject.Inject
 
+@Singleton
+
 class Thumbnaillmpl implements ThumbnailService {
 
     @Inject FiligraneService filigraneService

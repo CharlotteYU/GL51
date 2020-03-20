@@ -6,7 +6,9 @@ import gl51.service.RedimensionService
 import gl51.service.ThumbnailService
 
 import javax.inject.Inject
+import javax.inject.Singleton
 
+@Singleton
 class Cloudlmpl implements CloudService {
     @Inject RedimensionService redimensionService
     @Inject ThumbnailService thumbnailService
