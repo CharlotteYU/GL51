@@ -7,7 +7,7 @@ import gl51.service.RedimensionService
 
 import javax.inject.Inject
 
-
+@Singleton
 class Redimensionlmpl implements RedimensionService{
     @Inject FetchService fetchService
 
