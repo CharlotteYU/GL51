@@ -12,7 +12,7 @@ import javax.inject.Inject
 class Thumbnaillmpl implements ThumbnailService {
 
     @Inject FiligraneService filigraneService
-
+    @Override
     Picture thumbnail() {
         Picture picture = Fetchlmpl.fetch()
         picture.px_x(50)
