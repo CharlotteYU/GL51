@@ -7,10 +7,12 @@ import gl51.service.ThumbnailService
 
 import javax.inject.Inject
 
+@Singleton
+
 class Thumbnaillmpl implements ThumbnailService {
 
     @Inject FiligraneService filigraneService
-
+    @Override
     Picture thumbnail() {
         Picture picture = Fetchlmpl.fetch()
         picture.px_x(50)
